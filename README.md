@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @ThePinIzBloo
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on developing my skills in programming and possibly becoming a cyber security analyst
+- 📫 How to reach me ...@ feweverchosen@gmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact:ThePinIzBloo is a force 2 to be reckoned with. special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
